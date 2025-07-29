@@ -1,1 +1,2 @@
-Translated valid characters to full Morse code message and displayed output
+git add morse_converter.cpp
+git commit -m "Translated valid characters to full Morse code message and displayed output"
