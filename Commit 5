@@ -1,1 +1,2 @@
-Tested with sample sentences and added proper output formatting
+git add morse_converter.cpp
+git commit -m "Tested with sample sentences and added proper output formatting"
