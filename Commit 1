@@ -1,1 +1,2 @@
-Set up basic C++ program structure with user input for text message
+git add morse_converter.cpp
+git commit -m "Set up basic C++ program structure with user input for text message"
